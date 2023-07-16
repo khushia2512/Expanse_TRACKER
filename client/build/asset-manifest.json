@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.385df70c.css",
-    "main.js": "/static/js/main.90808eba.js",
+    "main.js": "/static/js/main.52b18da1.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/inspiration-login-forms-list-768x492.png": "/static/media/inspiration-login-forms-list-768x492.c7efc58cf7bc089dd464.png",
     "index.html": "/index.html",
     "main.385df70c.css.map": "/static/css/main.385df70c.css.map",
-    "main.90808eba.js.map": "/static/js/main.90808eba.js.map",
+    "main.52b18da1.js.map": "/static/js/main.52b18da1.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.385df70c.css",
-    "static/js/main.90808eba.js"
+    "static/js/main.52b18da1.js"
   ]
 }
